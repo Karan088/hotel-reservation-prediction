@@ -1,2 +1,37 @@
 # hotel-reservation-prediction
-Predictive analytics project to reduce booking cancellations and no-shows in hotels, leveraging machine learning and customer segmentation to optimize revenue management.
+
+**Enhancing Hotel Revenue Management Through Predictive Analytics**
+_Overview_
+This project explores the impact of booking cancellations and no-shows on hotel revenue. Using predictive analytics and customer segmentation, we analyze booking data to develop strategies that reduce revenue loss and improve operational efficiency.
+
+_Objective_
+Identify key factors influencing cancellations and no-shows.
+
+Develop a predictive model to classify bookings.
+
+Quantify financial impact and suggest mitigation strategies.
+
+Use customer segmentation to optimize marketing and pricing.
+
+_Technologies Used_
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly)
+
+Machine Learning (Classification Models, Feature Engineering, Clustering, Dimensionality Reduction)
+
+**Project Structure**
+📂 hotel-revenue-prediction  
+ ┣ 📂 notebooks      # Jupyter notebooks for analysis & modeling  
+ ┣ 📂 report        # Final report & dataset  
+ ┣ 📜 README.md     # Project overview  
+
+
+**Contributors**
+Karan Subramaniyam
+
+Sanidi Uthsari
+
+Luckseegan Maheshwaran
+
+📌 Open to feedback and collaboration!
+
+
