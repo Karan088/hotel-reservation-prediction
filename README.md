@@ -20,8 +20,8 @@ Machine Learning (Classification Models, Feature Engineering, Clustering, Dimens
 
 **Project Structure**
 📂 hotel-revenue-prediction  
- ┣ 📂 notebooks      # Jupyter notebooks for analysis & modeling  
- ┣ 📂 report        # Final report & dataset  
+ ┣ 📂 Notebooks      # Jupyter notebooks for analysis & modeling  
+ ┣ 📂 Report & Dataset        # Final report & dataset  
  ┣ 📜 README.md     # Project overview  
 
 
